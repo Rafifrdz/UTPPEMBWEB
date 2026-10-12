@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 6px;
+}
+
+/* Boleh ya kalo mau CSS nya dibuat cantik hehehe */
+
+body {
+    max-width: 520px;
+    margin: 20px auto;
+    background: #f5efe6;
+    color: #060606;
+}
+
+th {
+    background: #b0886b;
+    color: #fff;
+}
+
+button {
+    padding: 8px 20px;
+    background: #58473b;
+    color: #fff;
+    border: 0;
+    border-radius: 4px;
+    cursor: pointer;
+}
